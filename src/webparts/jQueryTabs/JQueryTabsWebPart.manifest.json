@@ -1,0 +1,19 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "c2ba2e07-950b-4cdf-aedd-51ce7440da4d",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "c2ba2e07-950b-4cdf-aedd-51ce7440da4d",
+    "group": { "default": "Under Development" },
+    "title": { "default": "JQueryTabs" },
+    "description": { "default": "SPFX client webpart for jQuery Tabs from tab lists." },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "JQueryTabs"
+    }
+  }]
+}

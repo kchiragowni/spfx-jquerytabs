@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "j-query-tabs-client-side-solution",
+    "id": "d3e68bae-b4c0-4ddb-ad0d-0b49043eb74e",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "j-query-tabs.spapp"
+  }
+}
