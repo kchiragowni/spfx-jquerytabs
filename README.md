@@ -1,6 +1,7 @@
-## j-query-tabs
+## jQuery Tabs
 
-This is where you include your web part docs.
+This is a SharePoint Framework Client side webapart for jQuery Tabs with data pulling from the SharePoint list.
+
 
 ### Building the code
 
