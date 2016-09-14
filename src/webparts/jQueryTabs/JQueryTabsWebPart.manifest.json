@@ -13,7 +13,9 @@
     "description": { "default": "SPFX client webpart for jQuery Tabs from tab lists." },
     "officeFabricIconFontName": "Page",
     "properties": {
-      "description": "JQueryTabs"
+      "heading": "Tabs webpart",
+      "description": "JQuery Tabs Webpart pulling content from tabs custom list.",
+      "listName": "Tabs"
     }
   }]
 }

@@ -15,3 +15,6 @@
 /// <reference path="systemjs/systemjs.d.ts" />
 /// <reference path="whatwg-fetch/whatwg-fetch.d.ts" />
 /// <reference path="knockout/knockout.d.ts" />
+/// <reference path="jquery/jquery.d.ts" />
+/// <reference path="jqueryui/jqueryui.d.ts" />
+/// <reference path="combokeys/combokeys.d.ts" />
